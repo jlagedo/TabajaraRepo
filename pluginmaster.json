@@ -1,0 +1,27 @@
+[
+    {
+        "Author": "Tabajara Dev Team",
+        "Name": "Raid Loot Annotator",
+        "Punchline": "Make it easy to track your raid loot.",
+        "Description": "Track your raid loot with ease. This plugin allows you to annotate your loot drops, making it easier to keep track of what you've received and what you still need.",
+        "Tags": [
+            "Raid",
+            "Loot",
+            "Tracker"
+        ],
+        "InternalName": "RaidLootAnnotator",
+        "RepoUrl": "https://github.com/jlagedo/RaidLootAnnotator",
+        "DownloadCount": 69,
+        "LastUpdate": 1724798283,
+        "DownloadLinkInstall": "https://github.com/jlagedo/RaidLootAnnotator/releases/download/0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/jlagedo/RaidLootAnnotator/releases/download/0.1/latest.zip",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "Initial version release",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "DownloadLinkTesting": "https://github.com/jlagedo/RaidLootAnnotator/releases/download/0.1/latest.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+    }
+]
