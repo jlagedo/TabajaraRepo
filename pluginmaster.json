@@ -22,6 +22,6 @@
         "TestingAssemblyVersion": "0.0.0.1",
         "DownloadLinkTesting": "https://github.com/jlagedo/RaidLootAnnotator/releases/download/0.1/latest.zip",
         "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+        "IconUrl": "https://github.com/jlagedo/TabajaraRepo/blob/f207f95fbd6b25fd4a48575e5e7fa3e9a3d9fc24/icon/raidloot.png"
     }
 ]
